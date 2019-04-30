@@ -2,8 +2,8 @@
 //  SUserDefaults.swift
 //  TestApp
 //
-//  Created by Kitsol on 1/2/19.
-//  Copyright © 2019 Kitsol. All rights reserved.
+//  Created by Vishal on 1/2/19.
+//  Copyright © 2019 Vishal. All rights reserved.
 //
 
 import Foundation
